@@ -1,2 +1,2 @@
-# Final-Capsule-Project-Minh-DQ
-To submit the final work
+# Data-Science-Project-Minh-DQ
+Ho Chi Minh City Business Type Analysis
